@@ -2,6 +2,7 @@ python-dotenv
 pydantic
 fastapi
 uvicorn
+httpx
 datasets
 transformers
 torch
