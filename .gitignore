@@ -1,4 +1,5 @@
 /venv
+/.venv
 /.deepeval
 # Python bytecode
 __pycache__/
